@@ -140,9 +140,9 @@ null checks, duplicate removal, Computed statistical summary for core numerical 
 
 |Nifty 50 Performance \& Trading Insights Dashboard|Nifty 50 Market Behavior \& Volatility  Dashboard|
 
-![Dashboard-1](Dashboard-1.png)
+![Dashboard-1](./Dashboard_1.png)
 
-[Dashboard-2](Dashboard-2.png)
+![Dashboard-2](./Dashboard_2.png)
 \---
 
 ## ▶️ How to Run
