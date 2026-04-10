@@ -180,8 +180,9 @@ jupyter lab
 
 **Prabha Burman**
 
-[!\[Email](](mailto:your.email@example.com)prabhaburman26@gmail.com)
-[!\[LinkedIn](https://www.linkedin.com/in/prabha-burman-632483325?utm\_source=share\&utm\_campaign=share\_via\&utm\_content=profile\&utm\_medium=android\_app)](https://linkedin.com/in/your-profile)
+[!\[Email](]prabhaburman26@gmail.com)
+
+[!\[LinkedIn](https://www.linkedin.com/in/prabha-burman-632483325?utm\_source=share\&utm\_campaign=share\_via\&utm\_content=profile\&utm\_medium=android\_app)]
 
 \---
 
